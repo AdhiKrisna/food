@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736480993816",
+    "project_id": "food-tutor",
+    "storage_bucket": "food-tutor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736480993816:android:5d6241ed79a133ee94996d",
+        "android_client_info": {
+          "package_name": "com.example.food_tutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJzuIWWZxmjYZfXrLODQ7PjX_goAAhe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
